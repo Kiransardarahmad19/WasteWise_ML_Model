@@ -1,1 +1,2 @@
-Waste wise is a waste classification system. 
+###WasteWise: Waste Classification and Carbon Footprint Tracker
+WasteWise is a mobile application developed to classify waste, assist in proper recycling, and promote environmental sustainability. It utilizes a machine learning model for waste detection, achieving 93% accuracy, and offers features like carbon footprint calculation and sorting assistance for recyclable and non-recyclable materials.

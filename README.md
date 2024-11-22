@@ -36,3 +36,19 @@ The ML model processes input images from the camera and classifies them in real-
 **Networking:** Retrofit and OkHttp for API requests
 **Database:** Firebase Realtime Database for storing user activity and carbon footprint data
 **Authentication:** Firebase Authentication for user login and data security
+
+## Project Screenshots
+
+Here are some screenshots showcasing the Sign Hope application in action:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Images/ww1.jpeg" alt="" width="150"/>
+    <img src="Images/ww2.jpeg" alt="" width="150"/>
+    <img src="Images/ww3.jpeg" alt="" width="150"/>
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+    <img src="Images/ww4.jpeg" alt=" " width="150"/>
+    <img src="Images/ww5.jpeg" alt=" " width="150"/>
+    <img src="Images/ww6.jpeg" alt=" " width="150"/>
+</div>

@@ -42,13 +42,13 @@ The ML model processes input images from the camera and classifies them in real-
 Here are some screenshots showcasing the Sign Hope application in action:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Images/ww1.jpeg" alt="" width="150"/>
-    <img src="Images/ww2.jpeg" alt="" width="150"/>
-    <img src="Images/ww3.jpeg" alt="" width="150"/>
+    <img src="ww1.jpeg" alt="" width="150"/>
+    <img src="ww2.jpeg" alt="" width="150"/>
+    <img src="ww3.jpeg" alt="" width="150"/>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px;">
-    <img src="Images/ww4.jpeg" alt=" " width="150"/>
-    <img src="Images/ww5.jpeg" alt=" " width="150"/>
-    <img src="Images/ww6.jpeg" alt=" " width="150"/>
+    <img src="ww4.jpeg" alt=" " width="150"/>
+    <img src="ww5.jpeg" alt=" " width="150"/>
+    <img src="ww6.jpeg" alt=" " width="150"/>
 </div>

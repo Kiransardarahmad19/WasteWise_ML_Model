@@ -39,7 +39,7 @@ The ML model processes input images from the camera and classifies them in real-
 
 ## Project Screenshots
 
-Here are some screenshots showcasing the Sign Hope application in action:
+Here are some screenshots showcasing the application in action:
 
 <div style="display: flex; justify-content: space-between;">
     <img src="ww1.jpeg" alt="" width="150"/>

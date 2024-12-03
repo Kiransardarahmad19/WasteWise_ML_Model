@@ -5,7 +5,7 @@ WasteWise is a waste classification and sorting system that helps users identify
 The machine learning model powering WasteWise is capable of classifying waste with an accuracy of 93%. The system provides additional features such as a carbon footprint tracker and a material sorting guide, available through both a web app and an advanced mobile app.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="un.png" alt="" width="250"/>
+    <img src="un5.png" alt="" width="250"/>
 </div>
 
 ### Waste Classification:

@@ -4,6 +4,10 @@ WasteWise is a waste classification and sorting system that helps users identify
 
 The machine learning model powering WasteWise is capable of classifying waste with an accuracy of 93%. The system provides additional features such as a carbon footprint tracker and a material sorting guide, available through both a web app and an advanced mobile app.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="un.png" alt="" width="250"/>
+</div>
+
 ### Waste Classification:
 **Real-time Waste Detection:** Uses a machine learning model to detect and classify waste into recyclable and non-recyclable categories.
 **93% Model Accuracy:** The ML model used in WasteWise has a classification accuracy of 93%.
@@ -30,12 +34,19 @@ The ML model processes input images from the camera and classifies them in real-
 
 ### Technologies Used
 **Languages:** Kotlin, Java
+
 **UI/UX:** XML for layout and design
+
 **Machine Learning:** TensorFlow, Keras
+
 **Backend Services:** Firebase for user data and authentication
+
 **Networking:** Retrofit and OkHttp for API requests
+
 **Database:** Firebase Realtime Database for storing user activity and carbon footprint data
+
 **Authentication:** Firebase Authentication for user login and data security
+
 
 ## Project Screenshots
 

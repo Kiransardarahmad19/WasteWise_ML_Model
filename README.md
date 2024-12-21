@@ -63,3 +63,6 @@ Here are some screenshots showcasing the application in action:
     <img src="ww5.jpeg" alt=" " width="150"/>
     <img src="ww6.jpeg" alt=" " width="150"/>
 </div>
+
+### My Contribution 
+I conceptualized and developed WasteWise as a Semester Project of Mobile Application Developement. 
